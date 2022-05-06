@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="v0.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/go/pkg/mod/cache/download/go.uber.org/ratelimit/@v/v0.2.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
